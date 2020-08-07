@@ -4,10 +4,12 @@
 
 <h4>Main Steps for Building a Neural Network</h4>
 
- <ul> Define the model structure such as number of input features.</ul>
- <ul> Initialize the model's parameters</ul>
-     Loop:
+ 1. Define the model structure such as number of input features.</ul>
+ 2. Initialize the model's parameters</ul>
+ 3. Loop:
+        <ul>
         <li>Calculate current loss (Forward Propagation)</li>
         <li>Calculate curren gradient (Backward Propagation)</li>
         <li>Update parameters (Gradient Descent)</li>
+        </ul>
 
