@@ -25,5 +25,5 @@ Concepts used:
 
 <h4>Deep Learning Notations</h4>
 
-<img src="Deep Learning and Neural Network/images/notation1">
-<img src = "Deep Learning and Neural Network/images/notation2">
+<img src="Deep Learning and Neural Network/images/notation1.jpg">
+<img src = "Deep Learning and Neural Network/images/notation2.jpg">
