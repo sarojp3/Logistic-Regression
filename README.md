@@ -23,3 +23,6 @@ Concepts used:
         <li>Update parameters (Gradient Descent)</li>
         </ul>
 
+<h4>Deep Learning Notations</h4>
+
+<img src=
