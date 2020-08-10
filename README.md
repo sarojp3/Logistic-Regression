@@ -1,6 +1,16 @@
-<h3>Logistic Regression with a Neural Network Mindset</h3>
+<h3>Intro to Deep Learning and Neural Network</h3>
 
-<p>It uses Logistic Regression Algorithm/Model and Gradient Descent(for the optimization) to predict between a cat and a non-cat.</p>
+Concepts used: 
+ <ul>
+  <li>Logistic Regression,</li>
+  <li>Activation Functions,</li>
+  <li>Forward Propagation,</li>
+  <li>Backward Propagation,</li>
+  <li>Vectorization,</li>
+  <li>Gradient Descent(Optimization),</li>
+  <li>Parameters and Hyperparameters</li>
+ </ul>
+ 
 
 <h4>Main Steps for Building a Neural Network</h4>
 
@@ -13,3 +23,6 @@
         <li>Update parameters (Gradient Descent)</li>
         </ul>
 
+<h4>Deep Learning Notations</h4>
+
+<img src=
