@@ -25,5 +25,5 @@ Concepts used:
 
 <h4>Deep Learning Notations</h4>
 
-<img src="images/notation1">
-<img src = "images/notation2">
+<img src="/images/notation1">
+<img src = "/images/notation2">
