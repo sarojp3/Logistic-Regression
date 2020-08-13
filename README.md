@@ -1,5 +1,5 @@
 <h3>Intro to Deep Learning and Neural Network</h3>
-
+ 
 Concepts used: 
  <ul>
   <li>Logistic Regression,</li>
@@ -10,7 +10,7 @@ Concepts used:
   <li>Gradient Descent(Optimization),</li>
   <li>Parameters and Hyperparameters</li>
  </ul>
- 
+ <p>These concepts are used completely from scratch without using any deep learning frameworks except in Tensorflow Basics.</p>
 
 <h4>Main Steps for Building a Neural Network</h4>
 
@@ -18,9 +18,9 @@ Concepts used:
  2. Initialize the model's parameters</ul>
  3. Loop:
         <ul>
-        <li>Calculate current loss (Forward Propagation)</li>
+        <li>Calculate current cost (Forward Propagation)</li>
         <li>Calculate curren gradient (Backward Propagation)</li>
-        <li>Update parameters (Gradient Descent)</li>
+        <li>Update parameters to minimize the cost(Gradient Descent)</li>
         </ul>
 
 <h4>Deep Learning Notations</h4>
