@@ -26,4 +26,6 @@
                  <p>It is similar to the Gradient Descent with Momentum but it uses the square of the value from past gradient(dW^2 and db^2).</p>
          **4. Adam Optimization Algorithm**
                  <p>This is widely used optimization algorithm which uses both Gradient Descent with Momentum and RMSprop.</p>
+
+
             
