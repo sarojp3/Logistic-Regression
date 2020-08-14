@@ -1,4 +1,4 @@
-<h3>Intro to Deep Learning and Neural Network</h3>
+## Intro to Deep Learning and Neural Network
  
 Concepts used: 
  <ul>
@@ -11,6 +11,9 @@ Concepts used:
   <li>Parameters and Hyperparameters</li>
  </ul>
  <p>These concepts are used completely from scratch without using any deep learning frameworks except in Tensorflow Basics.</p>
+ 
+ #### Softmax Regression
+ <p> Softmax regression is used for multi-class classification. For instance, if we have to detect cats, dogs and bird from a single dataset. It is similar to Logistic Regression but it use softmax activation function to compute the cost function. It can be mostly used in Convolutional Neural Network for Object Detections.</p> 
 
 <h4>Main Steps for Building a Neural Network</h4>
 
